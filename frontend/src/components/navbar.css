@@ -1,0 +1,11 @@
+h2{
+    color: blue;
+    font-weight: bold;
+    font-size: larger;
+}
+
+a {
+    text-decoration: none;
+    padding: 0 10px;
+    color: #000;
+}
